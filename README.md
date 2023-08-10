@@ -1,4 +1,5 @@
 # Visual-basic-Hospital-Management-System
+LEVEL - Second Year Diploma (IT) 
 
 - It is a Visual Basic project which  handles the working of Hospital System efficiently.
 - There are two logins, Admin and Patient.
