@@ -12,3 +12,5 @@
 Save the Database file in desired location and copy the path.
 
 This path is required in project as 'Data Source'. Edit yours accordingly in the code.
+
+Read Documentation for more information.
